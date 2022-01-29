@@ -19,16 +19,14 @@ em React, NextJs, Typescript e Sass. </p>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-https://github-readme-stats.vercel.app/api?username=tatamarques&show_icons=true&theme=vision-friendly-dark
-
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kaiqueliira&show_icons=true&theme=vision-friendly-dark" alt="tatamarques's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=kaiqueliira&show_icons=true&theme=vision-friendly-dark" alt="kaiqueliira's stats"/>
 </p>
 <p>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueliira&layout=compact&theme=vision-friendly-dark" alt="tatamarques's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiqueliira&layout=compact&theme=vision-friendly-dark" alt="kaiqueliira's most languages"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiqueliira&color=6633cc" alt="Profile views" /> </p>
 
